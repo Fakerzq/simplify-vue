@@ -1,5 +1,8 @@
 # simplify-vue3
-a simplified version of vue3 implementation for study
+一个简易版本的 vue3 源码
+
+### 内容输出
+https://github.com/scout-hub/technology-blog/tree/dev/vue/vue3%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90
 
 ### 测试
 pnpm test
